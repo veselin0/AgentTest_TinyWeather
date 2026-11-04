@@ -1,7 +1,0 @@
-Sofia, Bulgaria
-Current: 18°C, Partly cloudy
-Humidity: 55%
-
-Forecast:
-2026-11-04: Partly cloudy, high 20°C, low 12°C
-2026-11-05: Light rain, high 17°C, low 10°C
