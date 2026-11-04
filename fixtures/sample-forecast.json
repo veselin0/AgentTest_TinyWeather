@@ -1,0 +1,25 @@
+{
+  "location": {
+    "name": "Sofia",
+    "country": "Bulgaria"
+  },
+  "current": {
+    "temperature_c": 18,
+    "condition": "Partly cloudy",
+    "humidity_percent": 55
+  },
+  "forecast": [
+    {
+      "date": "2026-11-04",
+      "high_c": 20,
+      "low_c": 12,
+      "condition": "Partly cloudy"
+    },
+    {
+      "date": "2026-11-05",
+      "high_c": 17,
+      "low_c": 10,
+      "condition": "Light rain"
+    }
+  ]
+}
